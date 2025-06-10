@@ -7,4 +7,6 @@ spec:
   containers:
   # docker run -d --name nginx nginx
   - name: debug
-    image: joindevops/debug:v11
+    image: joindevops/debug:v1
+  - name: debug
+    image: joindevops/debug:v1
